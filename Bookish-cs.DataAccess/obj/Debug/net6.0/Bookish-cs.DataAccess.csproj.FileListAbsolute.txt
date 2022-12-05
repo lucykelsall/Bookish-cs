@@ -1,0 +1,5 @@
+C:\Work\Training\Bookish-cs\Bookish-cs.DataAccess\obj\Debug\net6.0\Bookish-cs.DataAccess.csproj.AssemblyReference.cache
+C:\Work\Training\Bookish-cs\Bookish-cs.DataAccess\obj\Debug\net6.0\Bookish-cs.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Training\Bookish-cs\Bookish-cs.DataAccess\obj\Debug\net6.0\Bookish-cs.DataAccess.AssemblyInfoInputs.cache
+C:\Work\Training\Bookish-cs\Bookish-cs.DataAccess\obj\Debug\net6.0\Bookish-cs.DataAccess.AssemblyInfo.cs
+C:\Work\Training\Bookish-cs\Bookish-cs.DataAccess\obj\Debug\net6.0\Bookish-cs.DataAccess.csproj.CoreCompileInputs.cache

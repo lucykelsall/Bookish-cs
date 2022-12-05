@@ -1,0 +1,5 @@
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish-cs.ConsoleApp.csproj.AssemblyReference.cache
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish-cs.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish-cs.ConsoleApp.AssemblyInfoInputs.cache
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish-cs.ConsoleApp.AssemblyInfo.cs
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish-cs.ConsoleApp.csproj.CoreCompileInputs.cache
