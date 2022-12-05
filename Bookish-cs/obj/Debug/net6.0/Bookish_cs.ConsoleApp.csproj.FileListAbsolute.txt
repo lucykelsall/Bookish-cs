@@ -1,9 +1,5 @@
-C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.csproj.AssemblyReference.cache
-C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.AssemblyInfoInputs.cache
-C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.AssemblyInfo.cs
-C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\Bookish_cs.ConsoleApp.exe
+C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\Bookish_cs.ConsoleApp.dll.config
 C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\Bookish_cs.ConsoleApp.deps.json
 C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\Bookish_cs.ConsoleApp.runtimeconfig.json
 C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\Bookish_cs.ConsoleApp.dll
@@ -29,10 +25,14 @@ C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\runtimes\win\lib\net6.0\
 C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\Bookish_cs.DataAccess.dll
 C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\Bookish_cs.DataAccess.pdb
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.csproj.AssemblyReference.cache
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.AssemblyInfoInputs.cache
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.AssemblyInfo.cs
+C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.csproj.CopyComplete
 C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.dll
 C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\refint\Bookish_cs.ConsoleApp.dll
 C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.pdb
 C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\Bookish_cs.ConsoleApp.genruntimeconfig.cache
 C:\Work\Training\Bookish-cs\Bookish-cs\obj\Debug\net6.0\ref\Bookish_cs.ConsoleApp.dll
-C:\Work\Training\Bookish-cs\Bookish-cs\bin\Debug\net6.0\Bookish_cs.ConsoleApp.dll.config
